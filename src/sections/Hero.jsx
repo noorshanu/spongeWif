@@ -22,18 +22,18 @@ function Hero() {
               </h2>
               <div className=" py-2">
                 <a
-                  href="https://solscan.io/BxDvT4S6FM4efus6VVS6T5fuSfreeTHhSLNQoKdxUS5n"
+                  href="https://solscan.io/"
                   target="_blank"
                   className="my-2 font-groot-two flex justify-start text-xs  text-black  sm:text-xl font-bold "
                 >
                   {" "}
-                  Contract : BxDvT4S6FM4efus6VVS6T5fuSfreeTHhSLNQoKdxUS5n
+                  Contract : BxDvTghjghjfghjghjfghjfghjfhgj
                 </a>
               </div>
 
               <div className="relative z-40 flex items-center justify-start my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
                 <a
-                  href="https://t.me/sponghat"
+                  href="https://t.me/"
                   target="_blank"
                   className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#e8e6c9] shadow-lg shadow-black/40 text-[#000000]  font-bold border-[#000000] border-2"
                 >
@@ -41,7 +41,7 @@ function Hero() {
                 </a>
 
                 <a
-                  href="https://www.dextools.io/app/en/solana/pair-explorer/H9wiuoyfs25Pdk3kiRmpeCjGmwfTxsA26VeuBCUW5zzG?t=1715875808925"
+                  href="https://www.dextools.io/"
                   target="_blank"
                   className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#e8e6c9] shadow-lg shadow-black/40 text-[#000000]  font-bold  border-[#000000] border-2"
                 >
