@@ -42,7 +42,7 @@ function RoadMap() {
             </div>
             <p className=" text-lg font-popins font-normal lh-1_7">• Grow to 2000 holders and Introduce new NFT collections.</p>
             <p  className=" text-lg font-popins font-normal lh-1_7">• Do partnerships.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7">• CMC & CG listing.</p>
+          
             <p  className=" text-lg font-popins font-normal lh-1_7">• Expand staking rewards program. .</p>
        
 
@@ -54,7 +54,7 @@ function RoadMap() {
             </div>
             <p className=" text-lg font-popins font-normal lh-1_7">•  Global marketing and futher partnerships</p>
             <p  className=" text-lg font-popins font-normal lh-1_7">• Keep innovating and spreading meme-tastic joy worldwide!.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7">• Launch SpongSol Game.</p>
+           
           
 
           </div>
