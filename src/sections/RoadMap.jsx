@@ -23,7 +23,7 @@ function RoadMap() {
   
 
         <div className="flex justify-between flex-col sm:flex-row gap-5">
-          <div className="bg-[#2a4474] border-4  py-5 px-5  rounded-xl w-[100%] h-[190px] ">
+          <div className="bg-[#473314] border-4  py-5 px-5  rounded-xl w-[100%] h-[190px] ">
             <div>
             <h1 className="font-groot-one font-bold  text-white text-center  text-xl mb-1">Phase 1</h1>
              
@@ -35,7 +35,7 @@ function RoadMap() {
           
           </div>
 
-          <div className="bg-[#2a4474] border-4 py-5 px-5  rounded-xl w-[100%] h-full ">
+          <div className="bg-[#473314] border-4 py-5 px-5  rounded-xl w-[100%] h-full ">
           <div>
           <h1 className="font-groot-one font-bold  text-white text-center  text-xl mb-1">Phase 2</h1>
            
@@ -47,7 +47,7 @@ function RoadMap() {
        
 
           </div>
-          <div className=" py-5 px-5  rounded-xl w-[100%] h-[190px] bg-[#2a4474] border-4">
+          <div className=" py-5 px-5  rounded-xl w-[100%] h-[190px] bg-[#473314] border-4">
           <div>
           <h1 className="font-groot-one font-bold  text-white text-center  text-xl mb-1">Phase 3</h1>
              
