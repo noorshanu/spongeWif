@@ -24,7 +24,7 @@ const Intro = () => {
             <img
               src="images/hero.png"
               alt=""
-              className=" rounded-3xl shadow-lg h-[400px] mx-auto  "
+              className=" rounded-3xl shadow-lg h-auto sm:h-[400px] mx-auto  "
             />
              <h2 className=" mt-4 text-center text-2xl text-black font-semibold font-groot-one pb-8">
              In the meme jungle,  SpongeWIF
