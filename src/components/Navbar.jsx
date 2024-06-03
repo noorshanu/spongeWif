@@ -11,7 +11,7 @@ function Navbar() {
       <div className="container-wrapper flex items-center justify-between relative">
         <div className=" flex items-center gap-2">
           <img
-            src="/images/hero3.png"
+            src="/images/logo.png"
             className="max-w-[7rem] w-full "
             alt=""
           />
