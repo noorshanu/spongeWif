@@ -3,7 +3,7 @@ function Hero() {
     <section className=" pt-8  pb-[4rem] ">
       <div className="container-wrapper">
         <h1 className=" font-groot-one text-2xl text-center sm:text-5xl font-semibold my-4 max-w-full sm:max-w-5xl mx-auto text-[#000]">
-          SpongeHat: Making Waves in the Solana Sea with Memes, fun, and
+          SpongeWif: Making Waves in the Solana Sea with Memes, fun, and
           Optimism!
         </h1>
         <div className="relative z-50">
@@ -15,7 +15,7 @@ function Hero() {
             <div className=" max-w-2xl bg-[#ffeb33c2] py-8 px-4 rounded-3xl border-2 border-[#000000]">
               <h2 className=" text-lg text-black font-semibold font-groot-two">
                 Welcome to SpongeWIF, the most bubbly and optimistic meme coin
-                on Solana with a hat! Just like SpongeBob, we're all about fun,
+                on Solana ! Just like SpongeBob, we're all about fun,
                 friendship, and making waves in the crypto world. Join us in
                 Bikini Bottom for meme creation, staking, and endless water
                 adventures!
