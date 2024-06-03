@@ -39,8 +39,7 @@ const Intro = () => {
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-two text-black  font-medium">
               In the meme jungle,  SpongeWIF reigns supreme with his adorable
               charm and endless memes! With his trusty sidekick,  SpongeWIF
-              spreads joy and laughter wherever he goes, making Solana brighter
-              with every wag of his tail.
+              spreads joy and laughter wherever he goes.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-two  text-black font-medium">
